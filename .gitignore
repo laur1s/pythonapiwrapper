@@ -1,2 +1,5 @@
 .DS_Store
 .vscode/settings.json
+.pytest_cache/
+tmdbwrapper/__pycache__/
+tests/__pycache__/
